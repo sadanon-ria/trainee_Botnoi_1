@@ -1,0 +1,8 @@
+pymongo[srv]
+requests
+fastapi 
+pymongo 
+uvicorn
+python-decouple
+python-multipart
+
